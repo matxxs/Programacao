@@ -1,0 +1,13 @@
+***Sequencia de codigos***
+
+git clone url
+git init - criar git 
+git branch -M main - para alterar de master para main
+git remote add origin - para fazer conexao com git da web
+git status -  ver modificações 
+git add . -  para adicionar novos arquivos 
+git commit -m "texto de mudança"
+git push - para enviar
+git pull - pegar os arquivos do git 
+.gitignore - ignore arquivo para nao enviar pra git hub
+ 

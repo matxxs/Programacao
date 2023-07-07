@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pratica 004</title>
+
+    <style>
+        body{
+            margin: 0;
+            width: 100vw;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        div#alterar{
+           height: 200px;
+           flex-direction: row;
+           line-height: 200px;
+        }
+            
+        input{
+            font: normal 18pt Arial;
+            width: 100px;
+            padding: 0.5rem;
+            margin: 1rem;
+        }
+        div#res{
+            font: normal 18pt Arial;
+            height: 200px;
+            border-radius: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+        }
+    </style>
+</head>
+
+<body>
+    <div id="alterar">
+        <input type="text" name="nInicial" id="nInicial"> +
+        <input type="text" name="nFinal" id="nFinal">
+        <input type="button" value="calcular" id="calcular">
+        <div id="res"></div>
+    </div>
+
+    <script>
+        var nI = document.getElementById('nInicial');
+        var nF = document.getElementById('nFinal');
+        var res = document.getElementById('res');
+        const calcular = document.getElementById('calcular');
+
+        calcular.addEventListener('click', function (event) {
+            event.preventDefault();
+
+            var n1 = Number(nI.value);
+            var n2 = Number(nF.value);
+
+
+            s = n1 + n2
+            res.style.background = 'rgb(21, 206, 21)'
+            res.innerHTML = s
+        });
+
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pratica 004</title>
+
+    <style>
+        body {
+            margin: 0;
+            width: 100vw;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        div#alterar{
+            display: flex;   
+        }
+
+        input {
+            font: normal 18pt Arial;
+            width: 100px;
+            padding: 0.5rem;
+            margin: 1rem;
+        }
+
+        div#res {
+            font: normal 18pt Arial;
+            width: 200px;
+            text-align: center;
+            line-height: 200px;
+        }
+
+        span{
+            font: normal 18pt Arial;
+            width: 50px;
+            text-align: center;
+            line-height: 200px;
+        }
+
+        img {
+            display: none;
+            width: 150px;
+            height: 150px;
+            padding: 0.3rem;
+            border-radius: 50%;
+
+        }
+    </style>
+</head>
+
+<body>
+    <div>
+        <input type="text" name="nInicial" id="nInicial"> +
+        <input type="text" name="nFinal" id="nFinal">
+        <input type="button" value="calcular" id="calcular">
+
+        <div id="alterar">
+            <div id="res"></div>
+            <span></span> 
+            <img src="img/251bc1cdc44ce29ad5a230dfa3f315f6.jpg" alt=""> 
+            <span></span>
+        </div>
+    </div>
+
+    <script>
+        var nI = document.getElementById('nInicial');
+        var nF = document.getElementById('nFinal');
+        var res = document.getElementById('res');
+        var img = document.getElementsByTagName('img')[0]; 
+        var span1 = document.getElementsByTagName('span')[0];
+        var span2 = document.getElementsByTagName('span')[1];
+        const calcular = document.getElementById('calcular');
+
+        calcular.addEventListener('click', function (event) {
+            event.preventDefault();
+
+            var n1 = Number(nI.value);
+            var n2 = Number(nF.value);
+
+            img.style.display = 'flex';
+            span1.innerText = '='
+            span2.innerText = '?'
+
+            s = n2 % n1
+            res.innerHTML =  s 
+        });
+
+    </script>
+</body>
+
+</html>
