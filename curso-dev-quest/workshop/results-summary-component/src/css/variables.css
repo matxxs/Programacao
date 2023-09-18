@@ -1,0 +1,22 @@
+:root {
+    /* ### Gradients*/
+    --gradients-primary:hsla(256, 72%, 46%, 1);
+    --gradients-median: hsl(241, 81%, 54%);
+    --gradients-lite: hsl(252, 100%, 67%);
+    --gradients-dark: hsla(241, 72%, 46%, 0);
+    /* ###Background Color Primary */
+    --background-color-reaction:#FFF6F5;
+    --background-color-memory:#FFFBF2;
+    --background-color-verbal:#F2FBFA;
+    --background-color-visual:#F3F3FD;
+    /* ### Primary*/
+    --text-reaction-color:hsl(0, 100%, 67%);
+    --text-memory-color:hsl(39, 100%, 56%);
+    --text-verbal-color:hsl(166, 100%, 37%);
+    --text-visual-color:hsl(234, 85%, 45%);
+    /* ### Neutral */
+    --neutral-pale:hsl(221, 100%, 96%);
+    --neutral-light:hsl(241, 100%, 89%);
+    --neutral-white :hsl(0, 0%, 100%); 
+    --neutral-dark:hsl(224, 30%, 27%);
+}

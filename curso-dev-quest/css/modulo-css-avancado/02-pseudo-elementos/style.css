@@ -1,0 +1,38 @@
+/* selector::pseudo-elemento{
+    propriedade: valor
+} */
+
+/* A primeira Letra de todo elemento <p>. */
+
+.first-letter::first-letter {
+    color: orange;
+}
+
+/* A primeira linha de todo elemento <p>. */
+
+.first-line::first-line {
+    color: orange;
+}
+
+.first-line::first-letter {
+    color: rgb(55, 0, 255);
+}
+
+li::marker{
+    color: red;
+    font-size: 30px;
+}
+
+/* before (antes ), after (depois) */
+
+.before::before{
+    content: "";
+    background: url(images/9373104291661247011-24.png) center center no-repeat;
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+}
+
+.after::after{
+    content: url(images/21362697191661247270-20.png);
+}

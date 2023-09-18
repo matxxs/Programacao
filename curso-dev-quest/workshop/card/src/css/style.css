@@ -1,0 +1,134 @@
+body {
+    background-color: var(--neutral-dark);
+    font-family: 'Outfit', sans-serif;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 25px;
+}
+
+.card {
+    background-color: var(--neutral-medium);
+    max-width: 350px;
+    padding: 25px;
+    border-radius: 15px;
+}
+
+.card .image-link .image {
+    width: 100%;
+    border-radius: 7px;
+}
+
+.card .image-link{
+    position: relative;
+    display: flex;
+} 
+
+.card .image-link::before,
+.card .image-link::after{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    border-radius: 7px;
+    opacity: 0;  
+    transition: 0.3s ease-in-out;
+}
+
+.card .image-link::before{
+    content: '';
+    background-color: cyan;  
+}
+
+.card .image-link::after{
+    content: '';
+    background: url(../images/icon-view.svg) no-repeat  center;
+}
+
+.card .image-link:hover::before{
+    opacity: 0.4;
+}
+
+.card .image-link:hover::after{
+    opacity: 1;
+}
+
+.card .title-link .title{
+    font-size: 22px;
+    color: #FFFFFF;
+    margin: 25px 0 15px;
+}
+
+.card .title-link .title:hover,
+.card .creator .text .name:hover{
+    color: var(--primary-medium);
+}
+
+.card .about{
+    color: var(--primary-soft);
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 25px;
+    margin-bottom: 28px;
+}
+
+.card .info{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 23px;
+}
+
+.card .info .price,
+.card .info .days-left{
+    display: flex;
+}
+
+.card .info .price{
+    color: var(--primary-medium ); 
+}
+
+.card .info .days-left{
+    color: var(--primary-soft);
+}
+
+.card .info .price::before,
+.card .info .days-left::before{
+    width: 15px;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.card .info .price::before{
+    content: '';
+    background: url(../images/icon-ethereum.svg) no-repeat  center;
+}
+
+.card .info .days-left::before{
+    content: '';
+    background: url(../images/icon-clock.svg) no-repeat  center;   
+}
+
+.card .creator{
+    display: flex;
+    align-items: center;
+    border-top: 1px solid  var(--neutral-soft);
+    padding-top: 15px;
+}
+
+.card .creator .avatar{
+    max-width: 35px;
+    border: 1px solid white;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+
+.card .creator .text{
+    color: var(--primary-soft);
+}
+
+.card .creator .text .name{
+    color: #FFFFFF;
+}
