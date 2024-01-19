@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C#\Solid\Ocp\bin\Debug\net6.0\Ocp.exe
+C:\Users\user\Desktop\C#\Solid\Ocp\bin\Debug\net6.0\Ocp.deps.json
+C:\Users\user\Desktop\C#\Solid\Ocp\bin\Debug\net6.0\Ocp.runtimeconfig.json
+C:\Users\user\Desktop\C#\Solid\Ocp\bin\Debug\net6.0\Ocp.dll
+C:\Users\user\Desktop\C#\Solid\Ocp\bin\Debug\net6.0\Ocp.pdb
+C:\Users\user\Desktop\C#\Solid\Ocp\obj\Debug\net6.0\Ocp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\Solid\Ocp\obj\Debug\net6.0\Ocp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\Solid\Ocp\obj\Debug\net6.0\Ocp.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\Solid\Ocp\obj\Debug\net6.0\Ocp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\Solid\Ocp\obj\Debug\net6.0\Ocp.dll
+C:\Users\user\Desktop\C#\Solid\Ocp\obj\Debug\net6.0\refint\Ocp.dll
+C:\Users\user\Desktop\C#\Solid\Ocp\obj\Debug\net6.0\Ocp.pdb
+C:\Users\user\Desktop\C#\Solid\Ocp\obj\Debug\net6.0\Ocp.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\Solid\Ocp\obj\Debug\net6.0\ref\Ocp.dll

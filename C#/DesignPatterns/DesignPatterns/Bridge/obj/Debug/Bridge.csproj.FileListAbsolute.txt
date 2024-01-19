@@ -1,0 +1,7 @@
+C:\Users\TEMP\PROJETOS\DesignPatterns\Bridge\bin\Debug\Bridge.exe.config
+C:\Users\TEMP\PROJETOS\DesignPatterns\Bridge\bin\Debug\Bridge.exe
+C:\Users\TEMP\PROJETOS\DesignPatterns\Bridge\bin\Debug\Bridge.pdb
+C:\Users\TEMP\PROJETOS\DesignPatterns\Bridge\obj\Debug\Bridge.csproj.AssemblyReference.cache
+C:\Users\TEMP\PROJETOS\DesignPatterns\Bridge\obj\Debug\Bridge.csproj.CoreCompileInputs.cache
+C:\Users\TEMP\PROJETOS\DesignPatterns\Bridge\obj\Debug\Bridge.exe
+C:\Users\TEMP\PROJETOS\DesignPatterns\Bridge\obj\Debug\Bridge.pdb

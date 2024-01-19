@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\Solid\Solid\Lsp\obj\Debug\net6.0\Lsp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Solid\Solid\Lsp\obj\Debug\net6.0\Lsp.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Solid\Solid\Lsp\obj\Debug\net6.0\Lsp.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Solid\Solid\Lsp\obj\Debug\net6.0\Lsp.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Solid\Solid\Lsp\bin\Debug\net6.0\Lsp.exe
+C:\Users\Asus\source\repos\Solid\Solid\Lsp\bin\Debug\net6.0\Lsp.deps.json
+C:\Users\Asus\source\repos\Solid\Solid\Lsp\bin\Debug\net6.0\Lsp.runtimeconfig.json
+C:\Users\Asus\source\repos\Solid\Solid\Lsp\bin\Debug\net6.0\Lsp.dll
+C:\Users\Asus\source\repos\Solid\Solid\Lsp\bin\Debug\net6.0\Lsp.pdb
+C:\Users\Asus\source\repos\Solid\Solid\Lsp\obj\Debug\net6.0\Lsp.dll
+C:\Users\Asus\source\repos\Solid\Solid\Lsp\obj\Debug\net6.0\refint\Lsp.dll
+C:\Users\Asus\source\repos\Solid\Solid\Lsp\obj\Debug\net6.0\Lsp.pdb
+C:\Users\Asus\source\repos\Solid\Solid\Lsp\obj\Debug\net6.0\Lsp.genruntimeconfig.cache
+C:\Users\Asus\source\repos\Solid\Solid\Lsp\obj\Debug\net6.0\ref\Lsp.dll
