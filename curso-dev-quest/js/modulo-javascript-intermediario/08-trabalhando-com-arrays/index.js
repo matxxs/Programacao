@@ -12,25 +12,25 @@ let frutasTamanaho = frutas.length
 //    console.log('Fruta: ' + item)
 // })
 
-frutas.push('manga')
+frutas.push('manga') // Acrescentar no final do array um novo elemento 
 
 console.log(frutas)
 
-frutas.pop()
+frutas.pop() // Tirar o ultimo elemento do array
 
 console.log(frutas)
 
-frutas.shift()
+frutas.shift() // Removo o primeiro elemento do array
 
 console.log(frutas)
 
-frutas.unshift('morango')
+frutas.unshift('morango') // Adicionar um novo elemento no inicio do array
 
 console.log(frutas)
 
-let posicaoLaranja = frutas.indexOf('laranja');
+let posicaoLaranja = frutas.indexOf('laranja'); // Pegar o posição do elemento no array
 
-console.log('posicao do Laranja ' + posicaoLaranja)
+console.log('posicao do Laranja    ' + posicaoLaranja)
 
 
 
