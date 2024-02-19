@@ -1,0 +1,7 @@
+C:\Users\Asus\Desktop\Programacao\C#\Faculdade\Segundo Semestre\DesignPatterns\DesignPatterns\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\Asus\Desktop\Programacao\C#\Faculdade\Segundo Semestre\DesignPatterns\DesignPatterns\Adapter\bin\Debug\Adapter.exe
+C:\Users\Asus\Desktop\Programacao\C#\Faculdade\Segundo Semestre\DesignPatterns\DesignPatterns\Adapter\bin\Debug\Adapter.pdb
+C:\Users\Asus\Desktop\Programacao\C#\Faculdade\Segundo Semestre\DesignPatterns\DesignPatterns\Adapter\obj\Debug\Adapter.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Programacao\C#\Faculdade\Segundo Semestre\DesignPatterns\DesignPatterns\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Programacao\C#\Faculdade\Segundo Semestre\DesignPatterns\DesignPatterns\Adapter\obj\Debug\Adapter.exe
+C:\Users\Asus\Desktop\Programacao\C#\Faculdade\Segundo Semestre\DesignPatterns\DesignPatterns\Adapter\obj\Debug\Adapter.pdb

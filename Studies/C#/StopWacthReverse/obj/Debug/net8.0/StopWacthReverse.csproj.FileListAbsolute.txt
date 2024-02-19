@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Programacao\C#\Pratica\StopWacthReverse\bin\Debug\net8.0\StopWacthReverse.exe
+C:\Users\Asus\Desktop\Programacao\C#\Pratica\StopWacthReverse\bin\Debug\net8.0\StopWacthReverse.deps.json
+C:\Users\Asus\Desktop\Programacao\C#\Pratica\StopWacthReverse\bin\Debug\net8.0\StopWacthReverse.runtimeconfig.json
+C:\Users\Asus\Desktop\Programacao\C#\Pratica\StopWacthReverse\bin\Debug\net8.0\StopWacthReverse.dll
+C:\Users\Asus\Desktop\Programacao\C#\Pratica\StopWacthReverse\bin\Debug\net8.0\StopWacthReverse.pdb
+C:\Users\Asus\Desktop\Programacao\C#\Pratica\StopWacthReverse\obj\Debug\net8.0\StopWacthReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Programacao\C#\Pratica\StopWacthReverse\obj\Debug\net8.0\StopWacthReverse.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Programacao\C#\Pratica\StopWacthReverse\obj\Debug\net8.0\StopWacthReverse.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Programacao\C#\Pratica\StopWacthReverse\obj\Debug\net8.0\StopWacthReverse.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Programacao\C#\Pratica\StopWacthReverse\obj\Debug\net8.0\StopWacthReverse.sourcelink.json
+C:\Users\Asus\Desktop\Programacao\C#\Pratica\StopWacthReverse\obj\Debug\net8.0\StopWacthReverse.dll
+C:\Users\Asus\Desktop\Programacao\C#\Pratica\StopWacthReverse\obj\Debug\net8.0\refint\StopWacthReverse.dll
+C:\Users\Asus\Desktop\Programacao\C#\Pratica\StopWacthReverse\obj\Debug\net8.0\StopWacthReverse.pdb
+C:\Users\Asus\Desktop\Programacao\C#\Pratica\StopWacthReverse\obj\Debug\net8.0\StopWacthReverse.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Programacao\C#\Pratica\StopWacthReverse\obj\Debug\net8.0\ref\StopWacthReverse.dll

@@ -1,0 +1,14 @@
+C:\Users\TEMP\PROJETOS\Solid1\Dip\bin\Debug\Dip.exe.config
+C:\Users\TEMP\PROJETOS\Solid1\Dip\bin\Debug\Dip.exe
+C:\Users\TEMP\PROJETOS\Solid1\Dip\bin\Debug\Dip.pdb
+C:\Users\TEMP\PROJETOS\Solid1\Dip\obj\Debug\Dip.csproj.AssemblyReference.cache
+C:\Users\TEMP\PROJETOS\Solid1\Dip\obj\Debug\Dip.csproj.CoreCompileInputs.cache
+C:\Users\TEMP\PROJETOS\Solid1\Dip\obj\Debug\Dip.exe
+C:\Users\TEMP\PROJETOS\Solid1\Dip\obj\Debug\Dip.pdb
+C:\Users\Asus\source\repos\Solid\Solid\Dip\bin\Debug\Dip.exe.config
+C:\Users\Asus\source\repos\Solid\Solid\Dip\bin\Debug\Dip.exe
+C:\Users\Asus\source\repos\Solid\Solid\Dip\bin\Debug\Dip.pdb
+C:\Users\Asus\source\repos\Solid\Solid\Dip\obj\Debug\Dip.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Solid\Solid\Dip\obj\Debug\Dip.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Solid\Solid\Dip\obj\Debug\Dip.exe
+C:\Users\Asus\source\repos\Solid\Solid\Dip\obj\Debug\Dip.pdb

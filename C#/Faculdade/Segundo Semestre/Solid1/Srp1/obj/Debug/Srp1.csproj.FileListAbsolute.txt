@@ -1,7 +1,0 @@
-C:\Users\TEMP\PROJETOS\Solid1\Srp1\bin\Debug\Srp1.exe.config
-C:\Users\TEMP\PROJETOS\Solid1\Srp1\bin\Debug\Srp1.exe
-C:\Users\TEMP\PROJETOS\Solid1\Srp1\bin\Debug\Srp1.pdb
-C:\Users\TEMP\PROJETOS\Solid1\Srp1\obj\Debug\Srp1.csproj.AssemblyReference.cache
-C:\Users\TEMP\PROJETOS\Solid1\Srp1\obj\Debug\Srp1.csproj.CoreCompileInputs.cache
-C:\Users\TEMP\PROJETOS\Solid1\Srp1\obj\Debug\Srp1.exe
-C:\Users\TEMP\PROJETOS\Solid1\Srp1\obj\Debug\Srp1.pdb

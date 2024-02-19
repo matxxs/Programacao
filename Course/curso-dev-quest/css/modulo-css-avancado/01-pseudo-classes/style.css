@@ -1,0 +1,42 @@
+/*
+ seletor::pseudo-classe {
+    propriedade: valor;
+} 
+*/
+
+/* -- Seleciona o primeiro item -- */
+
+p:first-child {
+    color: aqua;
+}
+
+/* -- Seleciona o ultimo item -- */
+
+p:last-child {
+    color:rgb(45, 22, 173);
+}
+
+/* -- Seleciona apenas item que nao irmao dentro de um bloco -- */
+
+p:only-child {
+    color: red;
+}
+
+/* -- Seleciona todos os item menos o que foram colocado a class -- */
+
+/* p:not(.padrao){
+    color: rgb(255, 51, 0)
+}  */
+
+/* -- odd(impares), event(pares), valorn -- */
+
+.nth-child li:nth-child(n+2):nth-child(-n+5){
+    color:rgb(235, 11, 160)
+}
+
+/*-- Seleciona de forma descentende -- */
+
+.nth-last-child li:nth-last-child(1){
+    color: rgb(235, 11, 160);
+}
+

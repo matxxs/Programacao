@@ -1,0 +1,7 @@
+C:\Users\TEMP\PROJETOS\DesignPatterns\ChainOfResponsibility\bin\Debug\ChainOfResponsibility.exe.config
+C:\Users\TEMP\PROJETOS\DesignPatterns\ChainOfResponsibility\bin\Debug\ChainOfResponsibility.exe
+C:\Users\TEMP\PROJETOS\DesignPatterns\ChainOfResponsibility\bin\Debug\ChainOfResponsibility.pdb
+C:\Users\TEMP\PROJETOS\DesignPatterns\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.csproj.AssemblyReference.cache
+C:\Users\TEMP\PROJETOS\DesignPatterns\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\TEMP\PROJETOS\DesignPatterns\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.exe
+C:\Users\TEMP\PROJETOS\DesignPatterns\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.pdb

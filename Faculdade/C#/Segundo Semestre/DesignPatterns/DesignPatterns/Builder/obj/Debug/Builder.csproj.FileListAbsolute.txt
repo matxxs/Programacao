@@ -1,0 +1,7 @@
+C:\Users\Asus\Downloads\DesignPatterns\DesignPatterns\Builder\bin\Debug\Builder.exe.config
+C:\Users\Asus\Downloads\DesignPatterns\DesignPatterns\Builder\bin\Debug\Builder.exe
+C:\Users\Asus\Downloads\DesignPatterns\DesignPatterns\Builder\bin\Debug\Builder.pdb
+C:\Users\Asus\Downloads\DesignPatterns\DesignPatterns\Builder\obj\Debug\Builder.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\DesignPatterns\DesignPatterns\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\DesignPatterns\DesignPatterns\Builder\obj\Debug\Builder.exe
+C:\Users\Asus\Downloads\DesignPatterns\DesignPatterns\Builder\obj\Debug\Builder.pdb

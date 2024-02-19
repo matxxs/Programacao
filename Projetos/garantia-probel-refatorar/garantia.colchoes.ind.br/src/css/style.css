@@ -1,0 +1,98 @@
+html {
+    font-size: 62.5%;
+}
+
+@font-face {
+    font-family: 'Gotham Black';
+    src: url('../font/gotham-black.otf') format('opentype'), url(../font/Gotham\ Black\ Regular.ttf) format('truetype');
+    font-weight: 900;
+    font-style: normal;
+  }
+
+main::before{
+    content: "";
+    background-image: url(../img/BG.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+}
+
+main {
+    position: relative;
+}
+
+/* HEADER */
+
+.header {
+    font-family: 'Outfit', sans-serif
+}
+
+.header .header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem; 
+    min-height: 55px; 
+}
+
+.header .logo img {
+    height: 42px;
+}
+
+/* MAIN */
+
+.person-image {
+    position: absolute;
+    display: flex;
+    height: 90%;
+    margin-left: 1rem;
+    bottom: 0;
+}
+
+.person-image img {
+    height: 100%;
+}
+
+.center-text {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    text-align: center; 
+    font-family: 'Gotham Black';
+    font-size: 35px;  
+}
+
+ .description {
+    display: flex;
+    height: 50%;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+}
+
+.center-text .description.top {  
+    color: var(--probel-color); 
+}
+
+.center-text .description.end {
+    color: var(--pelmex-color);
+}
+
+/* FOOTER*/
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    width: 100%;
+    bottom: 0;
+    padding: 1rem;
+}
+
+.footer img {
+    width: 350px;
+}

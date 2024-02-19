@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=MuseoModerno&family=Open+Sans&family=Poppins:wght@500&family=Roboto:ital,wght@1,900&display=swap');
+
+
+
+*{margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+

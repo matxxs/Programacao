@@ -1,0 +1,47 @@
+@media screen and (max-width: 768px) {
+    .header .mobile-menu-icon {
+        margin-left: 2rem;
+    }
+
+    .header nav{
+        display: none;
+    }
+
+    .mobile-menu-icon {
+        display: block;
+    }
+
+    .mobile-menu-icon button{
+        cursor: pointer;
+        background-color: transparent;
+    }
+    
+    .mobile-menu {
+        position: absolute;
+        z-index: 1;
+        right: 0;
+        background-color: #FFF;
+        padding: 1rem;
+        border-radius: 5px 0 0 5px;
+        box-shadow: -1px 10px px #000;   
+    }
+
+    .mobile-menu ul {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .mobile-menu .products,
+    .mobile-menu .register {
+        margin: 0.5rem;
+    }
+
+    .header .mobile-menu ul li a {
+        justify-content: center;
+    }
+
+    .open {
+        display: block;
+    }
+
+}

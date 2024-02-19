@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Programacao\C#\Studies\Datas\bin\Debug\net8.0\Datas.exe
+C:\Users\Asus\Desktop\Programacao\C#\Studies\Datas\bin\Debug\net8.0\Datas.deps.json
+C:\Users\Asus\Desktop\Programacao\C#\Studies\Datas\bin\Debug\net8.0\Datas.runtimeconfig.json
+C:\Users\Asus\Desktop\Programacao\C#\Studies\Datas\bin\Debug\net8.0\Datas.dll
+C:\Users\Asus\Desktop\Programacao\C#\Studies\Datas\bin\Debug\net8.0\Datas.pdb
+C:\Users\Asus\Desktop\Programacao\C#\Studies\Datas\obj\Debug\net8.0\Datas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Programacao\C#\Studies\Datas\obj\Debug\net8.0\Datas.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Programacao\C#\Studies\Datas\obj\Debug\net8.0\Datas.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Programacao\C#\Studies\Datas\obj\Debug\net8.0\Datas.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Programacao\C#\Studies\Datas\obj\Debug\net8.0\Datas.sourcelink.json
+C:\Users\Asus\Desktop\Programacao\C#\Studies\Datas\obj\Debug\net8.0\Datas.dll
+C:\Users\Asus\Desktop\Programacao\C#\Studies\Datas\obj\Debug\net8.0\refint\Datas.dll
+C:\Users\Asus\Desktop\Programacao\C#\Studies\Datas\obj\Debug\net8.0\Datas.pdb
+C:\Users\Asus\Desktop\Programacao\C#\Studies\Datas\obj\Debug\net8.0\Datas.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Programacao\C#\Studies\Datas\obj\Debug\net8.0\ref\Datas.dll

@@ -1,7 +1,0 @@
-C:\Users\TEMP\PROJETOS\Solid1\Isp\bin\Debug\Isp.exe.config
-C:\Users\TEMP\PROJETOS\Solid1\Isp\bin\Debug\Isp.exe
-C:\Users\TEMP\PROJETOS\Solid1\Isp\bin\Debug\Isp.pdb
-C:\Users\TEMP\PROJETOS\Solid1\Isp\obj\Debug\Isp.csproj.AssemblyReference.cache
-C:\Users\TEMP\PROJETOS\Solid1\Isp\obj\Debug\Isp.csproj.CoreCompileInputs.cache
-C:\Users\TEMP\PROJETOS\Solid1\Isp\obj\Debug\Isp.exe
-C:\Users\TEMP\PROJETOS\Solid1\Isp\obj\Debug\Isp.pdb

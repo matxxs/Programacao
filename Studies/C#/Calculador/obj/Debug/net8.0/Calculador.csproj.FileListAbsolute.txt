@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Programacao\C#\Calculador\bin\Debug\net8.0\Calculador.exe
+C:\Users\Asus\Desktop\Programacao\C#\Calculador\bin\Debug\net8.0\Calculador.deps.json
+C:\Users\Asus\Desktop\Programacao\C#\Calculador\bin\Debug\net8.0\Calculador.runtimeconfig.json
+C:\Users\Asus\Desktop\Programacao\C#\Calculador\bin\Debug\net8.0\Calculador.dll
+C:\Users\Asus\Desktop\Programacao\C#\Calculador\bin\Debug\net8.0\Calculador.pdb
+C:\Users\Asus\Desktop\Programacao\C#\Calculador\obj\Debug\net8.0\Calculador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Programacao\C#\Calculador\obj\Debug\net8.0\Calculador.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Programacao\C#\Calculador\obj\Debug\net8.0\Calculador.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Programacao\C#\Calculador\obj\Debug\net8.0\Calculador.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Programacao\C#\Calculador\obj\Debug\net8.0\Calculador.sourcelink.json
+C:\Users\Asus\Desktop\Programacao\C#\Calculador\obj\Debug\net8.0\Calculador.dll
+C:\Users\Asus\Desktop\Programacao\C#\Calculador\obj\Debug\net8.0\refint\Calculador.dll
+C:\Users\Asus\Desktop\Programacao\C#\Calculador\obj\Debug\net8.0\Calculador.pdb
+C:\Users\Asus\Desktop\Programacao\C#\Calculador\obj\Debug\net8.0\Calculador.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Programacao\C#\Calculador\obj\Debug\net8.0\ref\Calculador.dll

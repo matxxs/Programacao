@@ -1,0 +1,7 @@
+C:\Users\TEMP\PROJETOS\Solid1\Slp\bin\Debug\Slp.exe.config
+C:\Users\TEMP\PROJETOS\Solid1\Slp\bin\Debug\Slp.exe
+C:\Users\TEMP\PROJETOS\Solid1\Slp\bin\Debug\Slp.pdb
+C:\Users\TEMP\PROJETOS\Solid1\Slp\obj\Debug\Slp.csproj.AssemblyReference.cache
+C:\Users\TEMP\PROJETOS\Solid1\Slp\obj\Debug\Slp.csproj.CoreCompileInputs.cache
+C:\Users\TEMP\PROJETOS\Solid1\Slp\obj\Debug\Slp.exe
+C:\Users\TEMP\PROJETOS\Solid1\Slp\obj\Debug\Slp.pdb

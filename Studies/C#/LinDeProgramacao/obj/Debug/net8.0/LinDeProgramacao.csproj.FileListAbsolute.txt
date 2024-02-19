@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Programacao\C#\Studies\LinDeProgramacao\bin\Debug\net8.0\LinDeProgramacao.exe
+C:\Users\Asus\Desktop\Programacao\C#\Studies\LinDeProgramacao\bin\Debug\net8.0\LinDeProgramacao.deps.json
+C:\Users\Asus\Desktop\Programacao\C#\Studies\LinDeProgramacao\bin\Debug\net8.0\LinDeProgramacao.runtimeconfig.json
+C:\Users\Asus\Desktop\Programacao\C#\Studies\LinDeProgramacao\bin\Debug\net8.0\LinDeProgramacao.dll
+C:\Users\Asus\Desktop\Programacao\C#\Studies\LinDeProgramacao\bin\Debug\net8.0\LinDeProgramacao.pdb
+C:\Users\Asus\Desktop\Programacao\C#\Studies\LinDeProgramacao\obj\Debug\net8.0\LinDeProgramacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Programacao\C#\Studies\LinDeProgramacao\obj\Debug\net8.0\LinDeProgramacao.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Programacao\C#\Studies\LinDeProgramacao\obj\Debug\net8.0\LinDeProgramacao.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Programacao\C#\Studies\LinDeProgramacao\obj\Debug\net8.0\LinDeProgramacao.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Programacao\C#\Studies\LinDeProgramacao\obj\Debug\net8.0\LinDeProgramacao.sourcelink.json
+C:\Users\Asus\Desktop\Programacao\C#\Studies\LinDeProgramacao\obj\Debug\net8.0\LinDeProgramacao.dll
+C:\Users\Asus\Desktop\Programacao\C#\Studies\LinDeProgramacao\obj\Debug\net8.0\refint\LinDeProgramacao.dll
+C:\Users\Asus\Desktop\Programacao\C#\Studies\LinDeProgramacao\obj\Debug\net8.0\LinDeProgramacao.pdb
+C:\Users\Asus\Desktop\Programacao\C#\Studies\LinDeProgramacao\obj\Debug\net8.0\LinDeProgramacao.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Programacao\C#\Studies\LinDeProgramacao\obj\Debug\net8.0\ref\LinDeProgramacao.dll

@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Programacao\C#\Studies\Numbers\bin\Debug\net8.0\Numbers.exe
+C:\Users\Asus\Desktop\Programacao\C#\Studies\Numbers\bin\Debug\net8.0\Numbers.deps.json
+C:\Users\Asus\Desktop\Programacao\C#\Studies\Numbers\bin\Debug\net8.0\Numbers.runtimeconfig.json
+C:\Users\Asus\Desktop\Programacao\C#\Studies\Numbers\bin\Debug\net8.0\Numbers.dll
+C:\Users\Asus\Desktop\Programacao\C#\Studies\Numbers\bin\Debug\net8.0\Numbers.pdb
+C:\Users\Asus\Desktop\Programacao\C#\Studies\Numbers\obj\Debug\net8.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Programacao\C#\Studies\Numbers\obj\Debug\net8.0\Numbers.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Programacao\C#\Studies\Numbers\obj\Debug\net8.0\Numbers.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Programacao\C#\Studies\Numbers\obj\Debug\net8.0\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Programacao\C#\Studies\Numbers\obj\Debug\net8.0\Numbers.sourcelink.json
+C:\Users\Asus\Desktop\Programacao\C#\Studies\Numbers\obj\Debug\net8.0\Numbers.dll
+C:\Users\Asus\Desktop\Programacao\C#\Studies\Numbers\obj\Debug\net8.0\refint\Numbers.dll
+C:\Users\Asus\Desktop\Programacao\C#\Studies\Numbers\obj\Debug\net8.0\Numbers.pdb
+C:\Users\Asus\Desktop\Programacao\C#\Studies\Numbers\obj\Debug\net8.0\Numbers.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Programacao\C#\Studies\Numbers\obj\Debug\net8.0\ref\Numbers.dll

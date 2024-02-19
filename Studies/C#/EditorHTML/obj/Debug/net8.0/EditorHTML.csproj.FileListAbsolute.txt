@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Programacao\C#\Studies\EditorHTML\bin\Debug\net8.0\EditorHTML.exe
+C:\Users\Asus\Desktop\Programacao\C#\Studies\EditorHTML\bin\Debug\net8.0\EditorHTML.deps.json
+C:\Users\Asus\Desktop\Programacao\C#\Studies\EditorHTML\bin\Debug\net8.0\EditorHTML.runtimeconfig.json
+C:\Users\Asus\Desktop\Programacao\C#\Studies\EditorHTML\bin\Debug\net8.0\EditorHTML.dll
+C:\Users\Asus\Desktop\Programacao\C#\Studies\EditorHTML\bin\Debug\net8.0\EditorHTML.pdb
+C:\Users\Asus\Desktop\Programacao\C#\Studies\EditorHTML\obj\Debug\net8.0\EditorHTML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Programacao\C#\Studies\EditorHTML\obj\Debug\net8.0\EditorHTML.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Programacao\C#\Studies\EditorHTML\obj\Debug\net8.0\EditorHTML.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Programacao\C#\Studies\EditorHTML\obj\Debug\net8.0\EditorHTML.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Programacao\C#\Studies\EditorHTML\obj\Debug\net8.0\EditorHTML.sourcelink.json
+C:\Users\Asus\Desktop\Programacao\C#\Studies\EditorHTML\obj\Debug\net8.0\EditorHTML.dll
+C:\Users\Asus\Desktop\Programacao\C#\Studies\EditorHTML\obj\Debug\net8.0\refint\EditorHTML.dll
+C:\Users\Asus\Desktop\Programacao\C#\Studies\EditorHTML\obj\Debug\net8.0\EditorHTML.pdb
+C:\Users\Asus\Desktop\Programacao\C#\Studies\EditorHTML\obj\Debug\net8.0\EditorHTML.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Programacao\C#\Studies\EditorHTML\obj\Debug\net8.0\ref\EditorHTML.dll

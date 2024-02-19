@@ -1,0 +1,14 @@
+C:\Users\TEMP\PROJETOS\AulaPolimorfismo\AulaPolimorfismo\bin\Debug\net6.0\AulaPolimorfismo.exe
+C:\Users\TEMP\PROJETOS\AulaPolimorfismo\AulaPolimorfismo\bin\Debug\net6.0\AulaPolimorfismo.deps.json
+C:\Users\TEMP\PROJETOS\AulaPolimorfismo\AulaPolimorfismo\bin\Debug\net6.0\AulaPolimorfismo.runtimeconfig.json
+C:\Users\TEMP\PROJETOS\AulaPolimorfismo\AulaPolimorfismo\bin\Debug\net6.0\AulaPolimorfismo.dll
+C:\Users\TEMP\PROJETOS\AulaPolimorfismo\AulaPolimorfismo\bin\Debug\net6.0\AulaPolimorfismo.pdb
+C:\Users\TEMP\PROJETOS\AulaPolimorfismo\AulaPolimorfismo\obj\Debug\net6.0\AulaPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEMP\PROJETOS\AulaPolimorfismo\AulaPolimorfismo\obj\Debug\net6.0\AulaPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\TEMP\PROJETOS\AulaPolimorfismo\AulaPolimorfismo\obj\Debug\net6.0\AulaPolimorfismo.AssemblyInfo.cs
+C:\Users\TEMP\PROJETOS\AulaPolimorfismo\AulaPolimorfismo\obj\Debug\net6.0\AulaPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\TEMP\PROJETOS\AulaPolimorfismo\AulaPolimorfismo\obj\Debug\net6.0\AulaPolimorfismo.dll
+C:\Users\TEMP\PROJETOS\AulaPolimorfismo\AulaPolimorfismo\obj\Debug\net6.0\refint\AulaPolimorfismo.dll
+C:\Users\TEMP\PROJETOS\AulaPolimorfismo\AulaPolimorfismo\obj\Debug\net6.0\AulaPolimorfismo.pdb
+C:\Users\TEMP\PROJETOS\AulaPolimorfismo\AulaPolimorfismo\obj\Debug\net6.0\AulaPolimorfismo.genruntimeconfig.cache
+C:\Users\TEMP\PROJETOS\AulaPolimorfismo\AulaPolimorfismo\obj\Debug\net6.0\ref\AulaPolimorfismo.dll
