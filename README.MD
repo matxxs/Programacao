@@ -9,11 +9,6 @@ Separei as diversas linguagens que estudei, algumas mais exploradas do que outra
         
 </div>
           
-
-## Rede Socias 
-```
-https://www.youtube.com/channel/UCGXiaSPSmORM_4_b05kfMlg
-```
 ## Projetos
 
 ### The Last of Us
