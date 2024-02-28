@@ -5,4 +5,4 @@ numDecimal = float(input('Digite um numero Decimal : '))
 
 subIntEDecimal = numInt - numDecimal 
 
-print('Subração de um interio e um Dicimal : ',subIntEDecimal)
+print(f'Subração de um interio e um Dicimal : {subIntEDecimal}')
