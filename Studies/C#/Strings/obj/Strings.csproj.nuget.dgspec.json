@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\Desktop\\Programacao\\C#\\Studies\\Strings\\Strings.csproj": {}
+    "C:\\Users\\Asus\\Desktop\\Programacao\\Studies\\C#\\Strings\\Strings.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\Desktop\\Programacao\\C#\\Studies\\Strings\\Strings.csproj": {
+    "C:\\Users\\Asus\\Desktop\\Programacao\\Studies\\C#\\Strings\\Strings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Programacao\\C#\\Studies\\Strings\\Strings.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Programacao\\Studies\\C#\\Strings\\Strings.csproj",
         "projectName": "Strings",
-        "projectPath": "C:\\Users\\Asus\\Desktop\\Programacao\\C#\\Studies\\Strings\\Strings.csproj",
+        "projectPath": "C:\\Users\\Asus\\Desktop\\Programacao\\Studies\\C#\\Strings\\Strings.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Desktop\\Programacao\\C#\\Studies\\Strings\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\Desktop\\Programacao\\Studies\\C#\\Strings\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

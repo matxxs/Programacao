@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Programacao\\C#\\Studies\\StopWacth\\StopWacth.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Programacao\\Studies\\C#\\StopWacth\\StopWacth.csproj",
       "projectName": "StopWacth",
-      "projectPath": "C:\\Users\\Asus\\Desktop\\Programacao\\C#\\Studies\\StopWacth\\StopWacth.csproj",
+      "projectPath": "C:\\Users\\Asus\\Desktop\\Programacao\\Studies\\C#\\StopWacth\\StopWacth.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\Desktop\\Programacao\\C#\\Studies\\StopWacth\\obj\\",
+      "outputPath": "C:\\Users\\Asus\\Desktop\\Programacao\\Studies\\C#\\StopWacth\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -61,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

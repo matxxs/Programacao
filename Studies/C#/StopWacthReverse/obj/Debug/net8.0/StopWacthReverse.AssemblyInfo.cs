@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StopWacthReverse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32be87bfbaeb3119706ad2fecdac4fc6ef0aa493")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2992aaf187830e997f17cde94e27018fe7e9d04")]
 [assembly: System.Reflection.AssemblyProductAttribute("StopWacthReverse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StopWacthReverse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
