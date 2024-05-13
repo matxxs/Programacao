@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+
+    <title>Formulario</title>
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+    <div class="container">
+        <div class="header">
+            <h3> MANUTENÇÃO DE USUÁRIO DO SISTEMA INTERNO</h3>
+        </div>
+
+        <div>
+            <form action="#" autocomplete="off">
+                <div class="input-group ">
+                    <label class="titulo" for="">Login</label>
+                    <input type="text" name="name" placeholder="Digite seu nome ">
+                </div>
+
+                <div class="input-group ">
+                    <label class="titulo" for="">Senha</label>
+                    <input type="password" name="password" placeholder="sua senha">
+                </div>
+
+                <div class="input-group ">
+                    <label class="titulo" for="">Status</label>
+                    <select name="Status">
+                        <option [selected]>Ativo</option>
+                        <option value="2">Inativo</option>
+                    </select>
+                </div>
+
+                <div class="input-group">
+                    <label class="titulo" for="">Tipo</label>
+
+                    <input type="radio" name="position">
+                    <label for="">Técnico</label>
+
+                    <input type="radio" name="position">
+                    <label for="">Professor</label>
+
+                    <input type="radio" name="position">
+                    <label for="">Aluno</label>
+
+                </div>
+
+                <div class="input-group">
+                    <label class="titulo" for="">Data Criação</label>
+                    <input type="date" name="data">
+                </div>
+
+                <div class="input-group">
+                    <label class="titulo" for="">Perfil</label>
+
+                    <input type="radio" name="profile">
+                    <label for="">Convidado</label>
+
+                    <input type="radio" name="profile">
+                    <label for="">Administrador</label>
+                </div>
+
+                <div class="input-group ">
+                    <label class="titulo" for="">Oberservações</label>
+
+                    <textarea name="" id="" cols="50" rows="8"></textarea>
+                </div>
+
+                <div class="input-group a">
+
+                    <label class="titulo" for="">Módulos</label>
+
+                    <input type="checkbox">
+                    <label for="">Compras</label>
+
+                    <input type="checkbox">
+                    <label for="">Biblioteca</label>
+
+                    <input type="checkbox">
+                    <label for="">Acadêmia</label>
+
+                    <input type="checkbox">
+                    <label for=""> Documentação</label>
+
+                    <input type="checkbox">
+                    <label for="">Recursos Humanos</label>
+                    
+                </div>
+
+                <div class="button-group">
+                    <button type="submit">Cadastar</button>
+                    <button type="reset">Excluir</button>
+                </div>
+
+
+            </form>
+        </div>
+    </div>
+</body>
+
+</html>

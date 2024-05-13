@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style-image: url(./images/erro-48.png);
+    background-color: orange;
+    list-style: square inside url(./images/erro-48.png);
+}
+
+ul li {
+    border: 1px solid black;
+    padding: 20px;
+}
+
+ol {
+    list-style-image: url(./images/erro-48.png);
+    background-color: aqua;
+    list-style: square inside url(./images/erro-48.png);
+}
+
+ol li {
+    border: 1px solid black;
+    padding: 20px;
+}

@@ -1,0 +1,44 @@
+body {
+    font-family: 'Public Sans', sans-serif;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.art-exposition {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.art-exposition .frame {
+    width: 335px;
+    height: 431px;
+    position: relative;
+}
+
+.art-exposition .frame img {
+    width: 100%;
+}
+
+.art-exposition .frame .artist-information {
+    position: absolute;
+    color: #FFF;
+    bottom: 40px;
+    left: 20px;
+}
+
+.art-exposition .frame .artist-information .title {
+    font-size: 30px;
+    margin-bottom: 8px;
+}
+
+.art-exposition .frame .artist-information .caption {
+    font-size: 17px;
+    font-weight: 300;
+}

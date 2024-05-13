@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Pratica 03</title>
+</head>
+<body>
+
+    <!-- Receber a cor red -->
+    <!-- Vai alterar o Texto -->
+    <h3> Infograpic Title </h3>
+    <!-- Receber a cor yellow -->
+    <!-- Vai receber o resultado de 6 + 10 e color na tela  -->
+    <h3> Infograpic Title </h3>
+    <!-- receber a cor azul agua  -->
+    <!-- vai receber o Texto red e color na Tela em Maisculo -->
+    <h3> Infograpic Title </h3>
+    <!-- receber a cor azul cinza valor = 18  -->
+    <!-- Se yellow for >= azul cinza  = false -->
+    <h3> Infograpic Title </h3>
+
+</body>
+
+<script>
+    document.body.style.background = 'black'
+
+    //Pega as TAGS no HTML 
+    var red = document.getElementsByTagName('h3')[0];
+    var yellow = document.getElementsByTagName('h3')[1];
+    var azulAgua = document.getElementsByTagName('h3')[2];
+    var azulCinza = document.getElementsByTagName('h3')[3];
+
+    
+
+    //Atruibui as cores 
+    red.style.color = 'red';
+    yellow.style.color = 'yellow';
+    azulAgua.style.color = '#00ffff';
+    azulCinza.style.color = '#808080'
+
+    // Fazer a soma de 6 + 10
+    n1 = 6
+    n2 = 10
+    soma = n1 + n2
+    soma2 = 18 
+     
+    resultado = soma >= soma2
+
+    texto = ('triste' );
+    TEXTO = texto.toUpperCase();
+    
+    //Altera o Texto
+    red.innerText = texto
+    yellow.textContent = 'A soma de 6 + 10 = ' + soma;
+    azulAgua.innerText = TEXTO;
+    azulCinza.innerText = resultado
+    
+</script>
+</html>

@@ -1,0 +1,24 @@
+html{
+    background-color: #ccc;
+    font-size: 32px;
+}
+
+/* 1 em = 16 pixels */
+
+body{
+    background-color: rebeccapurple;
+    width: 50%;
+    font-size: 3rem;
+}
+
+.pai{
+    background-color: #ea80fc;
+    width: 50%;
+    font-size: 1.5rem;
+}
+
+.filho{
+    background-color: #1de9b6;
+    width: 50%;
+    font-size: 0.5rem;
+}

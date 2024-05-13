@@ -1,0 +1,8 @@
+@media only screen and(max-width: 480px){
+    .imagem{
+    width: 100%;
+    object-fit: cover;
+    object-position: bottom;
+    }
+}
+

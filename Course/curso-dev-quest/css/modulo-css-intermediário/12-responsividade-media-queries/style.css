@@ -1,0 +1,74 @@
+body {
+    background-color: #e1e2e1;
+}
+
+.cabecalho {
+    padding: 10px 5px;
+    background-color: #69f0ae;
+}
+
+.cabecalho .logo {
+    display: inline-block;
+}
+
+.cabecalho nav {
+    float: right;
+}
+
+.cabecalho nav li {
+    display: inline-block;
+    padding: 15px;
+}
+
+main {
+    background-color: white;
+    padding: 30px;
+    min-width: 320;
+    max-width: 900px;
+    /* width: 900px; */
+    margin: 0 auto;
+}
+
+main .info {
+    font-size: 18px;
+}
+
+main p {
+    font-size: 16px;
+}
+
+.image img {
+    width: 100%;
+}
+
+/* dispositivos entra pequenos (celulares em posição porta retrato, menores do que 576px) */
+
+@media (max-width: 576px){
+    .cabecalho {
+        text-align: center;
+    }
+
+    .cabecalho nav{
+        float: none;
+    }
+
+    .cabecalho nav li {
+        display: block;
+    }
+}
+
+/* dispositivos extra pequenos */
+@media (max-width: 375px) {}
+
+/* dispositivos pequenos (celulares em paisagem, menos de 768px) */
+@media (max-width: 768px) {}
+
+/* dispositivos médios (tablets, menos de 992) */
+@media (max-width: 768px) {}
+
+/* dispositvos grandes (desktops, menos de  1200px) */
+@media (max-width: 992px) {}
+
+/* dispositivos extra grandes (desktops grandes) */
+/* 1200px ou mais, não tem breakpoint */
+@media (max-width: 1200px) {}

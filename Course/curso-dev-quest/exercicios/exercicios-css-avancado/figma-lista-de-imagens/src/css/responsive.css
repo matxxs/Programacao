@@ -1,0 +1,7 @@
+@media(max-width: 1440px){
+    .art-exposition {
+        max-width: 900px;
+        margin: 30px 0;
+        gap: 1px;
+    }
+}

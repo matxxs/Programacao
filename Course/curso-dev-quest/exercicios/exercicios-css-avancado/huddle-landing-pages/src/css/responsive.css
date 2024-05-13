@@ -1,0 +1,69 @@
+
+@media (max-width: 1100px){
+    .main .info h2 {
+        font-size: 2.5rem;
+    }
+
+    .main .info p {
+        font-size: 1.5rem;
+    }
+}
+
+@media (max-width: 768px){
+    /* body::before {
+        background-image: url('../images/bg-mobile.svg');
+    } */
+
+    main{ 
+        padding: 2rem;
+        max-width: 80vh;
+        margin: 0 auto;
+        z-index: 1;
+    }
+
+    picture {
+        position: absolute;
+        max-width: 100%;
+        max-height: 60%;
+    }
+
+    .header div a img {
+        width: 130px;
+    }
+
+    .main {
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+    }
+
+    .main .info {
+        text-align: center;
+    }
+
+    .main .bnt-register,
+    .footer .social{
+        justify-content: center;
+    } 
+
+    .main .info button {
+        font-size: 1.5rem;
+        width: 230px;
+        height: 4.5rem;
+    }
+
+    .footer nav {
+        justify-content: center;
+    }
+
+    .footer nav ul li a {
+        min-width: 36px;
+        min-height: 36px;
+        font-size: 19px;
+        border: 1.5px solid #fff;
+    }
+
+    .footer nav ul li a:hover {
+        border: 1.5px solid  var(--color-secondary);
+    }
+
+}

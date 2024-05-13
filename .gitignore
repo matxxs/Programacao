@@ -1,0 +1,26 @@
+
+# EXTENSÕES
+
+*.vs
+*.vscode
+*.csproj
+*.sln
+*.txt
+*.cfg
+
+# PASTAS 
+
+Projetos
+Faculdade/Banco de Dados
+Studies/C#/Arrays
+Studies/C#/TestAPI
+Studies/MySQL
+
+# Pastas Padrão
+
+*bin
+*obj
+*Include
+*Lib
+*Scripts
+*__pycache__

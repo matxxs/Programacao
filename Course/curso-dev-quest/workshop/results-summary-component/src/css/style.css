@@ -1,0 +1,193 @@
+body {
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-size: 18px;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container .your-result, 
+.container .summary {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;   
+    border-radius: 30px;
+    width: 333px;
+}
+
+.container .your-result {
+    transform: translateX(20%);
+    background-image: linear-gradient(var(--gradients-lite), var(--gradients-median));
+}
+
+.container .your-result .title {
+    margin-top: 5px;
+    font-size: 22px;
+    color: var(--neutral-light);
+}
+
+.container .your-result .result {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 33px;
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+    background-image: linear-gradient( var(--gradients-primary), var(--gradients-dark));
+}
+
+.container .your-result .result .number-uppercase {
+    font-size: 65px;
+    font-weight: 800;
+    color: var(--neutral-white);
+}
+
+.container .your-result .result .number-lowercase {
+    color: var(--neutral-light);
+}
+
+.container .your-result .caption {
+    font-size: 30px;
+    margin-top: 25px;
+    color: var(--neutral-white);
+}
+
+.container .your-result .text-scored {
+    text-align: center;
+    padding: 15px 20px;
+    color: var(--neutral-light);
+}
+
+.container .summary{
+    align-items: end;
+    width: 390px;
+    gap: 30px;
+    box-shadow: 1px 20px 30px var(--neutral-pale);
+}
+
+.container .summary .title {
+    font-size: 22px;
+    width: 80%;
+    color:var(--neutral-dark);
+}
+
+.container .summary .graphic {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 80%;
+    height: 60%;;
+}
+
+.container .summary .graphic .status{
+    display: flex;
+    justify-content: space-between;
+    padding: 13px;
+    border-radius: 10px;
+    font-weight: 800;
+}
+
+.container .summary .graphic  .status-reaction {
+    background-color: var(--background-color-reaction) ;
+}
+
+.container .summary .graphic  .status-memory{
+    background-color: var(--background-color-memory);
+}
+
+.container .summary .graphic  .status-verbal {
+    background-color: var(--background-color-verbal);
+}
+
+.container .summary .graphic  .status-visual {
+    background-color: var(--background-color-visual);
+}
+
+.container .summary .graphic .status .reaction{
+    color: var(--text-reaction-color);
+}
+
+.container .summary .graphic .status .memory {
+    color: var(--text-memory-color);
+}
+
+.container .summary .graphic .status .verbal{
+    color: var(--text-verbal-color);
+}
+
+.container .summary .graphic .status .visual{
+    color: var(--text-visual-color);
+}
+
+.container .summary .graphic .status .reaction,
+.container .summary .graphic .status .memory,
+.container .summary .graphic .status .verbal,
+.container .summary .graphic .status .visual{
+    display: flex;  
+}
+
+.container .summary .graphic .status .reaction::before,
+.container .summary .graphic .status .memory::before,
+.container .summary .graphic .status .verbal::before,
+.container .summary .graphic .status .visual::before{
+    width: 20px;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.container .summary .graphic .status .reaction::before{
+    content: '';
+    background: url(../images/icon-reaction.svg) no-repeat center;
+}
+
+.container .summary .graphic .status .memory::before{
+    content: '';
+    background: url(../images/icon-memory.svg) no-repeat center;
+}
+
+.container .summary .graphic .status .verbal::before{
+    content: '';
+    background: url(../images/icon-verbal.svg) no-repeat center;
+}
+
+.container .summary .graphic .status .visual::before{
+    content: '';
+    background: url(../images/icon-visual.svg) no-repeat center;
+}
+
+.container .summary .graphic .status .point {
+    color: var(--neutral-dark);
+}
+
+.container .summary .graphic .status .point span{ 
+    color: var(--neutral-light);
+}
+
+.container .summary .bnt {
+    width: 79%;
+    height: 50px;
+    border: none;
+    border-radius: 30px;
+    font-size: 15px;
+    font-weight: 700;
+    margin-top: 30px;
+    color: white;
+    background-color: var(--neutral-dark);
+} 
+
+.container .summary .bnt:hover{
+    cursor: pointer;
+    background-image: linear-gradient(var(--gradients-lite), var(--gradients-median));
+}

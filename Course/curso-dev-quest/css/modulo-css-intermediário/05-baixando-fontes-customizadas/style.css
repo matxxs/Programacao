@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Retro Cool' ;
+    src: url(./font/RetroCool-Regular.otf),
+    url(./font/RetroCool-Regular.ttf),
+    url(./font/RetroCool-Regular.woff);
+}
+
+h1 {
+    font-family: 'Retro Cool', sans-serif;
+}

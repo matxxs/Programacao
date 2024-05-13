@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pratica 006</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0 auto;
+            max-width: 1280px;
+            font-family: Arial, Helvetica, sans-serif, sans-serif;
+        }
+
+        div.carrossel {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            z-index: -1;
+        }
+
+        div.carrossel .imagem {
+            width: 100%;
+            height: 100vh;
+            object-fit: cover;
+            display: none;
+            animation: mudarImagem 0.7s;
+        }
+
+        .carrossel .imagem.ativa {
+            display: block;
+        }
+
+        .container{
+            position: fixed;
+            display: flex;
+            justify-content: end;
+            align-items: center;
+            right: 0;
+            width: 100%;
+            height: 70%;
+            
+        }
+
+        form {
+            background-color: rgb(159, 163, 163);
+            width: 300px;
+            height: 400px;
+            display: flex;
+            flex-direction: column;
+            padding: 10px;
+            margin: 2rem
+        }
+
+        h3 {
+            text-align: center;
+            margin:  1rem;
+            padding: 2rem;
+        }
+
+        .container input, button {
+            padding: 0.8rem;
+            margin: 0.7rem 0;
+        }
+
+        div.box {
+            display: flex;
+            align-items: center;
+            margin: 0.5rem 1rem ;
+        }
+
+        div.box label {
+            padding: 0 0 0 0.8rem;
+        }
+
+        
+    </style>
+</head>
+
+<body>
+    <div class="carrossel">
+
+    </div>
+
+    <!-- <div class="container">
+        <form id="formulario" >
+            <h3> Iniciar sessão </h3>
+            <input type="text" name="name" id="name" placeholder="NOME DE USUÁRIO">
+            <input type="password" name="password" id="password" placeholder=" SENHA">
+
+            <div class="box">
+                <input type="checkbox" name="checkbox" id="checkbox">
+                <label for="checkbox"> Manter login </label>
+            </div>
+
+            <input type="button" value="LOGIN" id="enviar">
+        </form>
+    </div> -->
+
+    <div id="imprimir"></div>
+
+    <script>
+        const name = document.getElementById('name');
+        const password = document.getElementById('password');
+        const form = document.getElementById('formulario');
+        var imprimir = document.getElementById('imprimir');
+        const enviar = document.getElementById('enviar');
+
+        form.addEventListener('click', function(event){
+            event.preventDefault();   
+        })
+
+        enviar.addEventListener('click', function(){
+
+            var nome = String(name.value);
+            var senha = String(password.value);
+
+            imprimir.innerText = nome + "\n" + senha;
+        })
+
+    </script>
+</body>
+
+</html>

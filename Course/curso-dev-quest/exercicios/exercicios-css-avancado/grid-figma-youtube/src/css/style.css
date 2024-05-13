@@ -1,0 +1,58 @@
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+.container{
+    max-width: 900px;
+    display: grid;
+    grid-template-areas: "featured-video advertising"
+                         "featured-video suggested-video";
+    grid-template-columns: 1fr 270px;
+    grid-template-rows: 56px 1fr;
+    background-color: #F7F7F7;
+    padding: 35px 38px;
+    gap: 20px;
+}
+
+.featured-video {
+    grid-area: featured-video;
+}
+
+.featured-video img {
+    margin-bottom: 12px;
+    width: 100%;
+}
+
+.featured-video .title {
+    font-size: 18px;
+    margin-bottom: 7px;
+}
+
+.featured-video .views {
+    font-size: 14px;
+    margin-bottom: 7px;
+}
+
+.advertising {
+    grid-area: advertising;
+}
+
+.suggested-video {
+    grid-area: suggested-video;
+}
+
+.suggested-video .video {
+    display: flex;
+    gap: 5px;
+    margin-bottom: 15px;
+}
+
+.suggested-video .video .information .title {
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.suggested-video .video .information p{
+    font-size: 11px;
+    margin-bottom: 5px;
+}
