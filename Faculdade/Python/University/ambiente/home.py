@@ -1,5 +1,5 @@
 import tkinter as tk
-from tkinter import ttk
+from tkinter import ttk, messagebox
 from tkcalendar import Calendar
 from datetime import date
 from connection import *
@@ -108,7 +108,7 @@ class CourseWindow:
         semester_spinbox.grid(row = 3, column = 1)
 
         coordinator_label = tk.Label(course_info_frame, text = "Coordenador")
-        coordinator_dict = get_teacher_info()
+        coordinator_dict = get_teachers_info()
         coordinator_combobox = ttk.Combobox(course_info_frame, values=list(coordinator_dict.keys()))
         coordinator_label.grid(row = 4, column = 0)
         coordinator_combobox.grid(row = 5, column = 0)
@@ -136,7 +136,73 @@ class CourseWindow:
 class DisciplineWindow:
     def __init__(self, master):
 
-        print()
+        def enter_data():
+            
+            query = ""
+
+            cursor = connection.cursor()
+            cursor.execute(query)
+            connection.commit()
+            cursor.close()
+
+        self.root = master
+
+        frame = tk.Frame(self.root)
+        frame.pack()
+
+        # Discipline Info
+        discipline_info_frame = tk.LabelFrame(frame, text = "Cadastro Disciplina")
+        discipline_info_frame.grid(row = 1, column = 0, padx = 20, pady = 10)
+
+        discipline_name_label = tk.Label(discipline_info_frame, text = "Nome ")
+        discipline_name_entry = tk.Entry(discipline_info_frame, width = 25)
+
+        discipline_name_label.grid(row = 0, column = 0)
+        discipline_name_entry.grid(row = 1, column = 0)
+
+        description_label = tk.Label(discipline_info_frame, text = "Descrição")
+        description_entry = ttk.Entry(discipline_info_frame, width = 35)
+
+        description_label.grid(row = 2, column = 0)
+        description_entry.grid(row = 3, column = 0, columnspan = 2)
+
+        workload_label = tk.Label(discipline_info_frame, text = "Carga Horária")
+        workload_spinbox = tk.Spinbox(discipline_info_frame, from_= 0, to = 60, width = 5)
+
+        workload_label.grid(row = 0, column = 1)
+        workload_spinbox.grid(row = 1, column = 1)
+
+        teacher_label = tk.Label(discipline_info_frame, text = "Professor")
+        teacher_dict = get_teachers_info()
+        teacher_combobox = ttk.Combobox(discipline_info_frame, values=list(teacher_dict.keys()))
+        teacher_label.grid(row = 4, column = 0)
+        teacher_combobox.grid(row = 5, column = 0)
+
+        course_label = tk.Label(discipline_info_frame, text = "Curso")
+        course_dict = get_courses_info() 
+        course_combobox = ttk.Combobox(discipline_info_frame, values = list(course_dict.keys()))
+        course_label.grid(row = 6, column = 0)
+        course_combobox.grid(row = 7, column = 0)
+
+        for widget in discipline_info_frame.winfo_children():
+            widget.grid_configure(padx = 5, pady = 5, sticky= "w")
+
+        # Button 
+        button_back = tk.Button(frame, text = "Voltar", command = self.back_to_main_window)
+        button_back.grid(row = 2, column = 0,  sticky="w", padx = 20, pady = 10)
+
+        button_register = tk.Button(frame, text = "Cadastrar", command = enter_data)
+        button_register.grid(row = 2, column = 0, sticky = "e", padx = 20, pady = 10)
+
+        self.root.protocol("WM_DELETE_WINDOW", self.on_close)
+
+    def on_close(self):
+        self.root.destroy()
+        main_window.root.deiconify()
+
+    def back_to_main_window(self):
+        self.root.destroy()
+        main_window.root.deiconify()
 
 class StudentWindow:
     def __init__(self, master):
@@ -169,6 +235,8 @@ class StudentWindow:
             cursor.execute(insert_matriculation)
             connection.commit()
             cursor.close()
+
+            #messagebox.showinfo("Sucesso," "Operação realizada com sucesso")
              
         self.root = master
 
@@ -206,7 +274,7 @@ class StudentWindow:
         city_entry.grid(row = 3, column = 1)
 
         course_label = tk.Label(user_info_frame, text = "Curso")
-        course_dict = get_course_info() 
+        course_dict = get_courses_info() 
         course_combobox = ttk.Combobox(user_info_frame, values = list(course_dict.keys()))
         course_label.grid(row = 4, column = 0)
         course_combobox.grid(row = 5, column = 0)

@@ -1,6 +1,6 @@
 from connection import *
 
-def get_course_info():
+def get_courses_info():
 
     cursor = connection.cursor()
     cursor.execute('SELECT IDCURSO, NOMECURSO FROM CURSO')
@@ -10,7 +10,7 @@ def get_course_info():
     return {result[1]: result[0] for result in results} 
 
 
-def get_teacher_info():
+def get_teachers_info():
 
     cursor = connection.cursor()
     cursor.execute('SELECT IDPROFESSOR, NOME  FROM PROFESSOR')
